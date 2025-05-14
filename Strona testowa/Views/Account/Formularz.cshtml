@@ -1,0 +1,66 @@
+﻿@{
+    ViewData["Title"] = "Formularz";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Formularz studenta</title>
+</head>
+<body>
+    <div style="width:100%;text-align:center;">
+    <div style="width: 100%;
+        height: 100px;
+        background-color: rgba(26, 60, 106); 
+        border-radius:100px;
+        ">
+    <br/><h1 style="color:white;">Formularz studenta</h1>
+    </div><br /><br />
+    <div style="width: 50%;
+        height: 500px;
+        background-color: rgba(26, 60, 106, 0.8); 
+        border-radius:100px;
+        margin-left:25%;
+        ">
+    
+    <form method="post" action="/Account/Formularz">
+        <br/><br/><br/>
+        <h1 style="color:white;">Wypełnij dane</h1>
+        <br/>
+        <div style="color:white; font-size: 20px;" >
+            <label for="name">Imie:</label>
+            <input type="text" id="name" name="name" />
+        </div>
+        <br />
+        <div style="color:white; font-size: 20px;" >
+            <label for="secname">Nazwisko:</label>
+            <input type="text" id="secname" name="secname" />
+        </div>
+        <br />
+        <div style="color:white; font-size: 20px;" >
+            <label for="mail">E-mail:</label>
+            <input type="text" id="mail" name="mail" />
+        </div>
+        <br />
+        <div style="color:white; font-size: 20px;" >
+            <label for="phone">Numer telefonu:</label>
+            <input type="text" id="phone" name="phone"/>
+        </div>
+        <br />
+        <div>
+            <input type="submit" value="Wyślij" />
+        </div>
+    </form>
+    <br />
+    @if (ViewData["Mess"] != null)
+    {
+        <div style="color: white; font-weight: bold;">@ViewData["Mess"]</div>
+    }
+    @if (ViewData["ErrorMess"] != null)
+    {
+        <div style="color: white; font-weight: bold;">@ViewData["ErrorMess"]</div>
+    }
+    </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,86 @@
+C:\Users\olabu\Desktop\Folder\zeroprojectwasteproject\Strona testowa\Strona testowa\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\olabu\Desktop\Folder\zeroprojectwasteproject\Strona testowa\Strona testowa\bin\Debug\net5.0\appsettings.json
+C:\Users\olabu\Desktop\Folder\zeroprojectwasteproject\Strona testowa\Strona testowa\bin\Debug\net5.0\Strona testowa.exe
+C:\Users\olabu\Desktop\Folder\zeroprojectwasteproject\Strona testowa\Strona testowa\bin\Debug\net5.0\Strona testowa.deps.json
+C:\Users\olabu\Desktop\Folder\zeroprojectwasteproject\Strona testowa\Strona testowa\bin\Debug\net5.0\Strona testowa.runtimeconfig.json
+C:\Users\olabu\Desktop\Folder\zeroprojectwasteproject\Strona testowa\Strona testowa\bin\Debug\net5.0\Strona testowa.runtimeconfig.dev.json
+C:\Users\olabu\Desktop\Folder\zeroprojectwasteproject\Strona testowa\Strona testowa\bin\Debug\net5.0\Strona testowa.dll
+C:\Users\olabu\Desktop\Folder\zeroprojectwasteproject\Strona testowa\Strona testowa\bin\Debug\net5.0\Strona testowa.pdb
+C:\Users\olabu\Desktop\Folder\zeroprojectwasteproject\Strona testowa\Strona testowa\bin\Debug\net5.0\Strona testowa.Views.dll
+C:\Users\olabu\Desktop\Folder\zeroprojectwasteproject\Strona testowa\Strona testowa\bin\Debug\net5.0\Strona testowa.Views.pdb
+C:\Users\olabu\Desktop\Folder\zeroprojectwasteproject\Strona testowa\Strona testowa\obj\Debug\net5.0\Strona testowa.csproj.AssemblyReference.cache
+C:\Users\olabu\Desktop\Folder\zeroprojectwasteproject\Strona testowa\Strona testowa\obj\Debug\net5.0\Strona testowa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olabu\Desktop\Folder\zeroprojectwasteproject\Strona testowa\Strona testowa\obj\Debug\net5.0\Strona testowa.AssemblyInfoInputs.cache
+C:\Users\olabu\Desktop\Folder\zeroprojectwasteproject\Strona testowa\Strona testowa\obj\Debug\net5.0\Strona testowa.AssemblyInfo.cs
+C:\Users\olabu\Desktop\Folder\zeroprojectwasteproject\Strona testowa\Strona testowa\obj\Debug\net5.0\Strona testowa.csproj.CoreCompileInputs.cache
+C:\Users\olabu\Desktop\Folder\zeroprojectwasteproject\Strona testowa\Strona testowa\obj\Debug\net5.0\Strona testowa.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\olabu\Desktop\Folder\zeroprojectwasteproject\Strona testowa\Strona testowa\obj\Debug\net5.0\Strona testowa.RazorAssemblyInfo.cache
+C:\Users\olabu\Desktop\Folder\zeroprojectwasteproject\Strona testowa\Strona testowa\obj\Debug\net5.0\Strona testowa.RazorAssemblyInfo.cs
+C:\Users\olabu\Desktop\Folder\zeroprojectwasteproject\Strona testowa\Strona testowa\obj\Debug\net5.0\scopedcss\bundle\Strona testowa.styles.css
+C:\Users\olabu\Desktop\Folder\zeroprojectwasteproject\Strona testowa\Strona testowa\obj\Debug\net5.0\staticwebassets\Strona testowa.StaticWebAssets.Manifest.cache
+C:\Users\olabu\Desktop\Folder\zeroprojectwasteproject\Strona testowa\Strona testowa\obj\Debug\net5.0\Strona testowa.TagHelpers.input.cache
+C:\Users\olabu\Desktop\Folder\zeroprojectwasteproject\Strona testowa\Strona testowa\obj\Debug\net5.0\Strona testowa.TagHelpers.output.cache
+C:\Users\olabu\Desktop\Folder\zeroprojectwasteproject\Strona testowa\Strona testowa\obj\Debug\net5.0\Strona testowa.RazorCoreGenerate.cache
+C:\Users\olabu\Desktop\Folder\zeroprojectwasteproject\Strona testowa\Strona testowa\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\olabu\Desktop\Folder\zeroprojectwasteproject\Strona testowa\Strona testowa\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\olabu\Desktop\Folder\zeroprojectwasteproject\Strona testowa\Strona testowa\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\olabu\Desktop\Folder\zeroprojectwasteproject\Strona testowa\Strona testowa\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\olabu\Desktop\Folder\zeroprojectwasteproject\Strona testowa\Strona testowa\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\olabu\Desktop\Folder\zeroprojectwasteproject\Strona testowa\Strona testowa\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\olabu\Desktop\Folder\zeroprojectwasteproject\Strona testowa\Strona testowa\obj\Debug\net5.0\Strona testowa.RazorTargetAssemblyInfo.cache
+C:\Users\olabu\Desktop\Folder\zeroprojectwasteproject\Strona testowa\Strona testowa\obj\Debug\net5.0\Strona testowa.RazorTargetAssemblyInfo.cs
+C:\Users\olabu\Desktop\Folder\zeroprojectwasteproject\Strona testowa\Strona testowa\obj\Debug\net5.0\Strona testowa.Views.pdb
+C:\Users\olabu\Desktop\Folder\zeroprojectwasteproject\Strona testowa\Strona testowa\obj\Debug\net5.0\Strona testowa.dll
+C:\Users\olabu\Desktop\Folder\zeroprojectwasteproject\Strona testowa\Strona testowa\obj\Debug\net5.0\refint\Strona testowa.dll
+C:\Users\olabu\Desktop\Folder\zeroprojectwasteproject\Strona testowa\Strona testowa\obj\Debug\net5.0\Strona testowa.pdb
+C:\Users\olabu\Desktop\Folder\zeroprojectwasteproject\Strona testowa\Strona testowa\obj\Debug\net5.0\Strona testowa.genruntimeconfig.cache
+C:\Users\olabu\Desktop\Folder\zeroprojectwasteproject\Strona testowa\Strona testowa\obj\Debug\net5.0\ref\Strona testowa.dll
+C:\Users\olabu\Desktop\Folder\zeroprojectwasteproject\Strona testowa\Strona testowa\obj\Debug\net5.0\Strona testowa.csproj.CopyComplete
+C:\Users\olabu\Desktop\Folder\zeroprojectwasteproject\Strona testowa\Strona testowa\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\olabu\Desktop\Folder\zeroprojectwasteproject\Strona testowa\Strona testowa\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\olabu\Desktop\Folder\zeroprojectwasteproject\Strona testowa\Strona testowa\obj\Debug\net5.0\Razor\Views\Account\Formularz.cshtml.g.cs
+C:\Users\rager\Desktop\Strona testowa\Strona testowa\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\rager\Desktop\Strona testowa\Strona testowa\bin\Debug\net5.0\appsettings.json
+C:\Users\rager\Desktop\Strona testowa\Strona testowa\bin\Debug\net5.0\Strona testowa.exe
+C:\Users\rager\Desktop\Strona testowa\Strona testowa\bin\Debug\net5.0\Strona testowa.deps.json
+C:\Users\rager\Desktop\Strona testowa\Strona testowa\bin\Debug\net5.0\Strona testowa.runtimeconfig.json
+C:\Users\rager\Desktop\Strona testowa\Strona testowa\bin\Debug\net5.0\Strona testowa.runtimeconfig.dev.json
+C:\Users\rager\Desktop\Strona testowa\Strona testowa\bin\Debug\net5.0\Strona testowa.dll
+C:\Users\rager\Desktop\Strona testowa\Strona testowa\bin\Debug\net5.0\Strona testowa.pdb
+C:\Users\rager\Desktop\Strona testowa\Strona testowa\bin\Debug\net5.0\Strona testowa.Views.dll
+C:\Users\rager\Desktop\Strona testowa\Strona testowa\bin\Debug\net5.0\Strona testowa.Views.pdb
+C:\Users\rager\Desktop\Strona testowa\Strona testowa\obj\Debug\net5.0\Strona testowa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rager\Desktop\Strona testowa\Strona testowa\obj\Debug\net5.0\Strona testowa.AssemblyInfoInputs.cache
+C:\Users\rager\Desktop\Strona testowa\Strona testowa\obj\Debug\net5.0\Strona testowa.AssemblyInfo.cs
+C:\Users\rager\Desktop\Strona testowa\Strona testowa\obj\Debug\net5.0\Strona testowa.csproj.CoreCompileInputs.cache
+C:\Users\rager\Desktop\Strona testowa\Strona testowa\obj\Debug\net5.0\Strona testowa.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rager\Desktop\Strona testowa\Strona testowa\obj\Debug\net5.0\Strona testowa.RazorAssemblyInfo.cache
+C:\Users\rager\Desktop\Strona testowa\Strona testowa\obj\Debug\net5.0\Strona testowa.RazorAssemblyInfo.cs
+C:\Users\rager\Desktop\Strona testowa\Strona testowa\obj\Debug\net5.0\Strona testowa.TagHelpers.input.cache
+C:\Users\rager\Desktop\Strona testowa\Strona testowa\obj\Debug\net5.0\Strona testowa.TagHelpers.output.cache
+C:\Users\rager\Desktop\Strona testowa\Strona testowa\obj\Debug\net5.0\Strona testowa.RazorCoreGenerate.cache
+C:\Users\rager\Desktop\Strona testowa\Strona testowa\obj\Debug\net5.0\Razor\Views\Account\Formularz.cshtml.g.cs
+C:\Users\rager\Desktop\Strona testowa\Strona testowa\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\rager\Desktop\Strona testowa\Strona testowa\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\rager\Desktop\Strona testowa\Strona testowa\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\rager\Desktop\Strona testowa\Strona testowa\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\rager\Desktop\Strona testowa\Strona testowa\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\rager\Desktop\Strona testowa\Strona testowa\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\rager\Desktop\Strona testowa\Strona testowa\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\rager\Desktop\Strona testowa\Strona testowa\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\rager\Desktop\Strona testowa\Strona testowa\obj\Debug\net5.0\Strona testowa.RazorTargetAssemblyInfo.cache
+C:\Users\rager\Desktop\Strona testowa\Strona testowa\obj\Debug\net5.0\Strona testowa.RazorTargetAssemblyInfo.cs
+C:\Users\rager\Desktop\Strona testowa\Strona testowa\obj\Debug\net5.0\Strona testowa.Views.pdb
+C:\Users\rager\Desktop\Strona testowa\Strona testowa\obj\Debug\net5.0\scopedcss\bundle\Strona testowa.styles.css
+C:\Users\rager\Desktop\Strona testowa\Strona testowa\obj\Debug\net5.0\staticwebassets\Strona testowa.StaticWebAssets.Manifest.cache
+C:\Users\rager\Desktop\Strona testowa\Strona testowa\obj\Debug\net5.0\staticwebassets\Strona testowa.StaticWebAssets.Pack.cache
+C:\Users\rager\Desktop\Strona testowa\Strona testowa\obj\Debug\net5.0\staticwebassets\msbuild.Strona testowa.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rager\Desktop\Strona testowa\Strona testowa\obj\Debug\net5.0\staticwebassets\msbuild.build.Strona testowa.props
+C:\Users\rager\Desktop\Strona testowa\Strona testowa\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Strona testowa.props
+C:\Users\rager\Desktop\Strona testowa\Strona testowa\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Strona testowa.props
+C:\Users\rager\Desktop\Strona testowa\Strona testowa\obj\Debug\net5.0\Strona testowa.dll
+C:\Users\rager\Desktop\Strona testowa\Strona testowa\obj\Debug\net5.0\refint\Strona testowa.dll
+C:\Users\rager\Desktop\Strona testowa\Strona testowa\obj\Debug\net5.0\Strona testowa.pdb
+C:\Users\rager\Desktop\Strona testowa\Strona testowa\obj\Debug\net5.0\Strona testowa.genruntimeconfig.cache
+C:\Users\rager\Desktop\Strona testowa\Strona testowa\obj\Debug\net5.0\ref\Strona testowa.dll
+C:\Users\rager\Desktop\Strona testowa\Strona testowa\obj\Debug\net5.0\Strona t.C944F4B2.Up2Date

@@ -1,0 +1,56 @@
+﻿@{
+    ViewData["Title"] = "Login";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Formularz logowania</title>
+</head>
+<body>
+    <div style="width:100%;text-align:center;">
+    <div style="width: 100%;
+        height: 100px;
+        background-color: rgba(26, 60, 106); 
+        border-radius:100px;
+        ">
+    <br/><h1 style="color:white;">Formularz logowania</h1>
+    </div><br /><br />
+    <div style="width: 50%;
+        height: 400px;
+        background-color: rgba(26, 60, 106, 0.8); 
+        border-radius:100px;
+        margin-left:25%;
+        ">
+
+    <form method="post" action="/Account/Login">
+        <br/><br/><br/>
+        <h1 style="color:white;">Zaloguj się</h1>
+        <br/>
+        <div style="color:white; font-size: 20px;" >
+            <label for="login">Login:</label>
+            <input type="text" id="login" name="login" />
+        </div>
+        <br />
+        <div style="color:white; font-size: 20px;" >
+            <label for="password">Hasło:</label>
+            <input type="password" id="password" name="password" />
+        </div>
+        <br />
+        <div>
+            <input type="submit" value="Wyślij" />
+        </div>
+    </form>
+    <br />
+    @if (ViewData["Message"] != null)
+    {
+        <div style="color: white; font-weight: bold;">@ViewData["Message"]</div>
+    }
+    @if (ViewData["ErrorMessage"] != null)
+    {
+        <div style="color: white; font-weight: bold;">@ViewData["ErrorMessage"]</div>
+    }
+    </div>
+    </div>
+</body>
+</html>

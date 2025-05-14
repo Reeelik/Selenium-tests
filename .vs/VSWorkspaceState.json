@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SeleniumTests",
+    "\\Strona testowa",
+    "\\Strona testowa\\Controllers",
+    "\\Strona testowa\\Views",
+    "\\Strona testowa\\Views\\Account",
+    "\\Strona testowa\\Views\\Shared"
+  ],
+  "SelectedNode": "\\Strona testowa\\Controllers\\AccountController.cs",
+  "PreviewInSolutionExplorer": false
+}
